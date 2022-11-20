@@ -52,7 +52,7 @@
     display: grid;
     grid-template-columns: auto auto ;
     grid-gap: 50px;
-    grid-row-gap: 20px;
+    grid-row-gap: 30px;
     justify-content: space-between;
     padding: 50px;
     text-align: center;
