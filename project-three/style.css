@@ -1,0 +1,54 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  
+  background-image: url(./images.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500vh;
+  background-attachment: fixed;
+  
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.box{
+  width: 250px;
+  height: 500px;
+  box-shadow: 10px 10px 10px 10px black;
+  color: white;
+  
+  
+}
+.box p{
+  margin: 20px;
+}
+#one{
+  background-image: url(./download\ \(2\).jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#two{
+  background-image: url(./download\ \(1\).jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#three{
+  background-image: url(./images\ \(1\).jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#four{
+  background-image: url(./download.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+ 
+

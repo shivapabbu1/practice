@@ -1,0 +1,43 @@
+
+body{
+  background-image: url(./image\ picture.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+}
+
+
+.control{
+    width: 300px;
+}
+
+.label{
+  text-align: left;
+}
+.text area{
+  height: 300px;
+  width: 300px;
+}
+
+#form{
+    background-color: azure;
+    width: 500px;
+    margin: 50px 250px; 
+    padding: 50px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+    
+}
+#main{
+  padding: 30px 20px;
+  background-image: url(../project-three/image\ picture.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+
+}
+#button{
+  background-color: darkgreen;
+  
+}
