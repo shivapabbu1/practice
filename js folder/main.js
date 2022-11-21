@@ -5,3 +5,5 @@ const Find_Sum = (array, N) =>
   }
 console.log("sum");
 };
+
+console.log("welcome");
